@@ -17,6 +17,10 @@ Among the evaluated models, XGBoost achieved the strongest predictive performanc
 
 https://public.tableau.com/app/profile/akilan.sureshkumar/viz/hr_employee_attrition_dashboard/EmployeeAttritionRiskDashboard
 
+<p align="center">
+  <img src="images/dashboard.png" width="1000">
+</p>
+
 The interactive Tableau dashboard enables users to explore:
 
 * Workforce retention and attrition metrics
